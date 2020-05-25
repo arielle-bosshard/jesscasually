@@ -115,7 +115,9 @@ a {
 a:hover {
   color: #d6f3ec;
 }
-
+i:hover {
+  color: #d6f3ec;
+}
 /***** Main *****/
 .titles {
   background: #f9dcc7;
