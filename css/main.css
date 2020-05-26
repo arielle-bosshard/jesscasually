@@ -286,7 +286,15 @@ footer p {
     font-size: 1em;
   }
 }
-
+@media only screen and (min-width: 1000px) {
+  /*Ipad Pro styles here*/
+  .heading {
+    width: 50%;
+  }
+  .titles h2 {
+    padding-bottom: 30%;
+  }
+} 
 @media only screen and (min-width: 1200px) {
   /*Desktop styles here*/
   /* General styles */ 
