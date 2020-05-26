@@ -275,6 +275,9 @@ footer p {
   .titles p {
     font-size: 1.5em;
   }
+  .heading {
+    width: 70%;
+  }
   .titles h2 {
     font-size: 2.5em;
     padding-bottom: 40%;
@@ -297,7 +300,7 @@ footer p {
   }
   .heading {
     margin-top: 0;
-    width: 50%;
+    width: 40%;
   }
   .titles h2 {
     padding-bottom: 23%;
